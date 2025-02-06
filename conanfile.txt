@@ -1,0 +1,11 @@
+[requires]
+cjson/1.7.18
+unity/2.6.0
+
+[generators]
+CMakeDeps
+CMakeToolchain
+
+
+[layout]
+cmake_layout
