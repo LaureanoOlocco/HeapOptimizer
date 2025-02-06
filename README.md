@@ -6,7 +6,7 @@ En el refugio, donde cada byte cuenta, la gestión avanzada de memoria y la efic
 Por suerte, no tendrás que empezar de cero; parte del código ya ha sido desarrollado por dos programadores previos, algo perezosos, pero eso no es problema para ti, ¿verdad?
 
 <p align="center">
-  <img src=".img/img.png"/>
+  <img src="img/img.png"/>
 </p>
 
 ---
