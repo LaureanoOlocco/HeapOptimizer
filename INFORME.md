@@ -1,4 +1,3 @@
----
 
 ## **1. Ventajas y desventajas de las políticas de asignación de memoria**
 
